@@ -1,0 +1,6 @@
+{
+  "name": "Tra Cứu Nhãn Hiệu Việt Nam & Quốc Tế",
+  "description": "Hệ thống tra cứu thông tin nhãn hiệu IP Vietnam, WIPO Global Brand Database & Interbra dành cho luật sư sở hữu trí tuệ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
